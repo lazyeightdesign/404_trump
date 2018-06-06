@@ -1,6 +1,6 @@
 # 404 Trump - Page nor common sense found
 
-[Lazy Eight Design's](https://lazyeight.design) 404 page.
+[Lazy Eight Design's](https://lazyeight.design) 404 page. Originally went live in June 2016.
 
 ![](screenshot1.png)
 ![](screenshot2.png)
