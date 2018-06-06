@@ -2,7 +2,8 @@
 
 > [Lazy Eight Design's](https://lazyeight.design) 404 page.
 
-![](screenshot.png)
+![](screenshot1.png)
+![](screenshot2.png)
 
 ## License
 
