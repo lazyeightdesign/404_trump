@@ -1,5 +1,7 @@
 # 404 Trump - Page nor common sense found
 
+> Inspired by "Space Invaders"
+> 
 [Lazy Eight Design's](https://lazyeight.design) 404 page. Originally went live in June 2016.
 
 ![](screenshot1.png)
